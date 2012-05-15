@@ -1,0 +1,94 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" dir="ltr" lang="en"><head>
+
+
+
+
+
+ <meta http-equiv="Content-type" content="text/html;charset=UTF-8" /><title></title>
+ 
+ <script type="text/javascript">
+  function changeTitle(title) {    
+    document.title = title; 
+    document.title = "nop"; 
+  } 
+  function closeWindow() {
+    if (document.myForm.showDialog.checked == true) {
+        changeTitle("event_close_true");
+    }
+    else {
+        changeTitle("event_close_false");
+    }
+   }
+   function assessCheckbox() {
+    if (document.myForm.showDialog.checked == true) {
+        changeTitle("checkbox_checked");
+    }
+    else {
+       changeTitle("checkbox_unchecked");
+    }
+   }
+  
+ </script>
+  <style type="text/css">
+    body {
+    background-image: url('/usr/lib/uremix/uremixwelcome/templates/background.jpg');
+      background-repeat: no-repeat;        
+      margin-left: 500; 
+      padding-left: 10em; 
+      color:#000;      
+    }
+
+ </style></head><body><h3><font color="white">$title</font></h3>
+
+<font color="white" size="2"><b>$release_title:</b> $release</font><br />
+<font color="white" size="2"><b>$edition_title:</b> $edition</font>
+<br />
+<br />
+<font color="white" size="2">$welcome</font>
+<hr />
+<font size="1">
+<table style="width: 535px; height: 86px;">
+<tbody><tr>
+<td valign="top"><b><font color="white">$discover_title</font></b><br />
+
+<ul>
+    <li><a href='javascript:changeTitle("event_about")'><font color="white">$uremix_about</font></a></li>
+</ul>
+</td>
+
+<td valign="top"><b><font color="white">$find_help_title</font></b><br />
+    <ul>
+        <li><a href='javascript:changeTitle("event_tutorials")'><font color="white">$tutorials</font></a></li>
+        <li><a href='javascript:changeTitle("event_forums")'><font color="white">$forums</font></a></li>
+        <li><a href='javascript:changeTitle("event_ideas")'><font color="white">$ideas</font></a></li>
+    </ul>
+</td>
+
+<td valign="top"><b><font color="white">$comunity_title</font></b><br />
+    <ul>
+        <li><a href='javascript:changeTitle("event_hacklab")'><font color="white">$hacklab</font></a></li>
+        <li><a href='javascript:changeTitle("event_softlibre")'><font color="white">$softlibre</font></a></li>
+        <li><a href='javascript:changeTitle("event_mozilla")'><font color="white">$mozilla</font></a></li>
+        <li><a href='javascript:changeTitle("event_boliviaos")'><font color="white">$boliviaos</font></a></li>
+    </ul>
+</td>
+
+</tr>
+
+</tbody></table>
+<font color="white" size="2">APOYADO POR:</font><br />
+<br />
+</font><a href='javascript:changeTitle("event_sponsor")'><img style="border: 0px solid ; width: 139px; height: 75px;" alt="Ir al sitio de OpenIT" src="/usr/lib/uremix/uremixwelcome/templates/OpenIT.png" /></a><font size="2"><br />
+
+<div align="right">
+<form action="#" name="myForm">
+  <input name="showDialog" $checked="" onclick="javascript:assessCheckbox()" type="checkbox" /><font color="white" size="1">$show</font>
+  <input name="closebutton" value="$close" onclick="javascript:closeWindow()" type="submit" />
+</form>
+</div>
+</font>
+
+
+
+</body></html>
