@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-28 14:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:22
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:45
+msgid "Bienvenido a Uremix Linux"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:46
+msgid "Lanzamiento"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:47
+msgid "Edición"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:48
+msgid "Documentación"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:49
+msgid "Soporte"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:50
+msgid "Proyecto"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:51
+msgid "Comunidad"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:52
+msgid "Nuevas características"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:53
+msgid "Problemas comunes"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:54
+msgid "Guía de Usuario (PDF)"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:55
+msgid "Forums"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:56
+msgid "Chat room"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:57
+msgid "Sponsors"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:58
+msgid "Donations"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:59
+msgid "How to get involved"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:60
+msgid "Idea pool"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:61
+msgid "Software reviews"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:62
+msgid "Hardware database"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:63
+msgid "Tutorials"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:64
+msgid "Show this dialog at startup"
+msgstr ""
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:65
+msgid "Close"
+msgstr "Cerrar"
+
+#: usr/lib/uremix/uremixWelcome/uremixWelcome.py:71
+msgid ""
+"Bienvenido y Gracias por elegir Uremix Linux. Esperamos que disfrutes usandolo "
+"como nosotros diseñandolo para tí. Los enlaces a continuación te ayudaran a iniciarte "
+"con tu nuevo sistema operativo. Pasa un buen rato y no dudes en escribirnos a la lista"
+"de correo."
+msgstr ""
