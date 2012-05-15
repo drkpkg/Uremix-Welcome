@@ -1,0 +1,3 @@
+#!/bin/bash
+
+xgettext --language=Python --keyword=_ --output=uremixwelcome.pot usr/lib/uremix/uremixwelcome/uremixWelcome.py
