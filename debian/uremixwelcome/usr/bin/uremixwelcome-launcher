@@ -1,0 +1,8 @@
+#!/usr/bin/python
+
+import os
+from user import home
+
+if (not os.path.exists(home + "/.uremix/uremixwelcome/norun.flag")) and (not os.path.exists("/usr/bin/ubiquity")):
+	os.system("uremixwelcome")
+

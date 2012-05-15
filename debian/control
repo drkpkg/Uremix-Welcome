@@ -1,0 +1,12 @@
+Source: uremixwelcome
+Section: admin
+Priority: optional
+Maintainer: Daniel Coca <daniel.uremix@gmail.com>
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: uremixwelcome
+Architecture: all
+Depends: python (>= 2.4), python-gobject, python (<< 3), python-gtk2, python-glade2, uremix-info, python-configobj
+Description: Welcome screen for Uremix Linux
+ Shows important information about the release/edition of Uremix Linux. 

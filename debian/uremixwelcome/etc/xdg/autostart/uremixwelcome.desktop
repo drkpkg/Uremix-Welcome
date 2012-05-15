@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=uremixwelcome
+Comment=Uremix Linux Welcome Screen
+Icon=documentinfo
+Exec=uremixwelcome-launcher
+Terminal=false
+Type=Application
+Categories=
+OnlyShowIn=GNOME;XFCE;
+
+Name[es_BO]=uremixwelcome

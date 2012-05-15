@@ -1,0 +1,17 @@
+uremixwelcome (1.2) Unstable; urgency=low
+
+  * Migración a Gtk3 completa
+
+ -- Daniel Coca <daniel.uremix@gmail.com>  Mon, 14 May 2012 14:20:00 -0400
+
+uremixwelcome (0.1.0) stable; urgency=low
+
+  * Seleccion de imagen y dialogos para uremix-welcome, primer version estable.
+
+ -- Daniel Coca <daniel.uremix@gmail.com>  Thu, 15 Sept 2011 23:19:00 -0400
+
+uremixwelcome (0.0.0) chichi; urgency=low
+
+  * Initial Release.
+
+ -- Daniel Coca <daniel.uremix@gmail.com>  Sat, 09 Jul 2011 13:25:56 -0400

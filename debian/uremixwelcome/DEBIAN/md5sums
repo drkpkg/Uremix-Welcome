@@ -1,0 +1,11 @@
+8099cfd11b79709b71b013a13ef41bdc  usr/bin/uremixwelcome
+d2eb9ee3234ab7dea49cc5e67a2fc8bd  usr/bin/uremixwelcome-launcher
+cb5d41c5e7824aeed1d9297382856e98  usr/lib/uremix/uremixwelcome/templates/OpenIT.png
+e17160c257d93a7a3072540d3d1ec06c  usr/lib/uremix/uremixwelcome/templates/background.jpg
+23857c49017d4705817b160c090b14a4  usr/lib/uremix/uremixwelcome/templates/welcome.html
+ad249d9060577e39f29111c4722a0f42  usr/lib/uremix/uremixwelcome/uremix-icon.png
+ad249d9060577e39f29111c4722a0f42  usr/lib/uremix/uremixwelcome/uremix-icon_xmas.png
+37797d430b3e523fd099e6ad2a1ad930  usr/lib/uremix/uremixwelcome/uremixWelcome.py
+a4ada3f12bffd32444226ecf84b44d84  usr/lib/uremix/uremixwelcome/uremixwelcome.glade
+c804fa3ec388a0ca2e149f345003d807  usr/share/doc/uremixwelcome/changelog.gz
+0a4e4415aa616895499863bee5ede876  usr/share/doc/uremixwelcome/copyright

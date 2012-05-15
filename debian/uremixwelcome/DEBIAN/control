@@ -1,0 +1,10 @@
+Package: uremixwelcome
+Version: 1.2
+Architecture: all
+Maintainer: Daniel Coca <daniel.uremix@gmail.com>
+Installed-Size: 550
+Depends: python (>= 2.4), python-gobject, python (<< 3), python-gtk2, python-glade2, uremix-info, python-configobj
+Section: admin
+Priority: optional
+Description: Welcome screen for Uremix Linux
+ Shows important information about the release/edition of Uremix Linux.
